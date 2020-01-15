@@ -1,6 +1,6 @@
 # Python Meetup Talks
 
-This repository contains collection of talks from past Python meetup events.
+This repository contains collection of talks from past [Python meetup](https://www.meetup.com/Python-Hrvatska/) events.
 
 Talks are grouped by years.
 
